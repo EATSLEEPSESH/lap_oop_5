@@ -1,0 +1,7 @@
+C:/Users/79063/CLionProjects/lab_OOP_5/cmake-build-debug/CMakeFiles/lab_OOP_5.dir
+C:/Users/79063/CLionProjects/lab_OOP_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/79063/CLionProjects/lab_OOP_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/79063/CLionProjects/lab_OOP_5/cmake-build-debug/Google_Tests/CMakeFiles/edit_cache.dir
+C:/Users/79063/CLionProjects/lab_OOP_5/cmake-build-debug/Google_Tests/CMakeFiles/rebuild_cache.dir
+C:/Users/79063/CLionProjects/lab_OOP_5/cmake-build-debug/include/CMakeFiles/edit_cache.dir
+C:/Users/79063/CLionProjects/lab_OOP_5/cmake-build-debug/include/CMakeFiles/rebuild_cache.dir
